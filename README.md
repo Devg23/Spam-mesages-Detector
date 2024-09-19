@@ -32,8 +32,8 @@ To run the SMS Spam Detector locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/sms-spam-detector.git
-    cd sms-spam-detector
+    git clone https://github.com/Devg23/Spam-Messages-Detector.git
+    cd Spam-Messages-Detector
     ```
 
 2. **Install the required packages**:
